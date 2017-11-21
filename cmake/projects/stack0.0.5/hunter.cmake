@@ -12,7 +12,7 @@ hunter_add_version(
     URL
     "https://github.com/zhanchi5/stack0.0.5/archive/v0.0.1.tar.gz"
     SHA1
-    
+    "e99ddb16d3b92b7ea9ac4b526faf9415db1c5c5b"
 )
 
 hunter_pick_scheme(DEFAULT url_sha1_cmake)
